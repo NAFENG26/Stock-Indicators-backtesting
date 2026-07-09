@@ -38,4 +38,3 @@ Follow these steps in order to fetch the data and run the backtest successfully.
 - **No Real-World Guarantee:** If a strategy tested here is applied in actual market conditions, the results may (and likely will) differ significantly from the calculated theoretical outcomes. Real-world trading involves slippage, liquidity issues, unforeseen market events, and other variables that are not accounted for in this simulation.
 - **No Liability:** By using this repository, you acknowledge that the creator/author assumes **absolutely no legal or financial responsibility** for any financial losses or damages incurred. 
 - **Not Financial Advice:** The code and resulting data do not constitute investment advice, financial guidance, or a recommendation to buy or sell any asset. You trade entirely at your own risk.
-- 
